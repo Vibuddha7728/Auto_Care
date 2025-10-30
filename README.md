@@ -18,7 +18,7 @@ This UI/UX design showcases:
 
 ## 🔗 Figma Prototype
 
-[View on Figma]([https://www.figma.com/](https://www.figma.com/design/6MZTYYYScwGKYmy4xUnUSp/AutoCare?node-id=0-1&p=f&t=mjkesNlhxvYWaQFY-0)) 
+View on Figma:https://www.figma.com/design/6MZTYYYScwGKYmy4xUnUSp/AutoCare?node-id=0-1&p=f&t=mjkesNlhxvYWaQFY-0
 ---
 
 ## 👩‍🎨 Tools Used
