@@ -15,6 +15,26 @@ This UI/UX design showcases:
 - Profile Page – User account management  
 
 ---
+System Objectives
+
+### 🎓 General Objectives
+- To enhance the vehicle service experience using automation and AI technology.  
+- To simplify vehicle service marketing through intelligent outreach systems.
+
+### ⚙️ Specific Objectives
+- Develop a product owner registration system.  
+- Implement Google Maps API for nearby service detection.  
+- Create an AI-powered call bot to promote products.  
+- Allow users to search, view, and book services easily.  
+
+---
+
+## 💡 How It Works
+
+1. Product owners register their businesses and add product details.  
+2. The system identifies nearby shops using the **Google Maps API**.  
+3. An **AI bot** automatically calls and markets products to those shops.  
+4. Interested shops can accept and feature the products in their store listings.  
 
 ## 🔗 Figma Prototype
 
