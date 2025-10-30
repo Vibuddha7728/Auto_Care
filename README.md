@@ -11,7 +11,7 @@ This UI/UX design showcases:
 - Home Page – Dashboard with nearby services  
 - Service Provider Pages – Mechanic and spare part shop details  
 - Booking & Payment Pages – Book services and pay online  
-- Emergency Help – Quick access to nearby help  
+- Emergency Help – Quick access to nearby help   
 - Profile Page – User account management  
 
 ---
